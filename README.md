@@ -1,7 +1,5 @@
 # learning_python_module
 ---
-# python模塊_learning
----
 
 ## refernce
 
