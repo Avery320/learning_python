@@ -1,8 +1,6 @@
 # learning_python
 ---
-
 ## refernce
-
 1. 图灵星球TuringPlanet
    https://space.bilibili.com/282739748?spm_id_from=333.788.0.0
 2. Python常用模块6小时详细教程
